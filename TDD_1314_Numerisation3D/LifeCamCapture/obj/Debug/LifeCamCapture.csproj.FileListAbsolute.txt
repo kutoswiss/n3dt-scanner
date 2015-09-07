@@ -1,0 +1,12 @@
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\bin\Debug\LifeCamCapture.exe.config
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\bin\Debug\LifeCamCapture.exe
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\bin\Debug\LifeCamCapture.pdb
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\bin\Debug\WebCam_Capture.dll
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\obj\Debug\LifeCamCapture.csprojResolveAssemblyReference.cache
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\obj\Debug\LifeCamCapture.View.resources
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\obj\Debug\LifeCamCapture.Properties.Resources.resources
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\obj\Debug\LifeCamCapture.csproj.GenerateResource.Cache
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\obj\Debug\LifeCamCapture.exe
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\obj\Debug\LifeCamCapture.pdb
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\bin\Debug\DirectX.Capture.dll
+C:\Users\REJASC_INFO\Desktop\NegativeEdge\INFO\TDD_2013_2014\code\ArduinoStepperMotorCommand\LifeCamCapture\bin\Debug\DShowNET.dll
